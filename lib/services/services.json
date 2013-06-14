@@ -1,5 +1,6 @@
 
 {
   "account": "account/account-service",
-  "registration": "registration/registration-service"
+  "registration": "registration/registration-service",
+  "debug": "debug/debug-service"
 }
